@@ -6,3 +6,5 @@ www.equinox.com
 www.equinox.com/checkin
 
 www.equinox.com/meditation
+
+www.equinox.com/pilates
