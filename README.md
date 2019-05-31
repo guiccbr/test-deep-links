@@ -1,7 +1,9 @@
 # test-deep-links
 Test Deep Links
 
-www.equinox.com
+https://www.equinox.com
+
+https://www.equinox.com/hotels/explore/5bzQ2m4ZHJosXpjfSIWzzF
 
 www.equinox.com/checkin
 
